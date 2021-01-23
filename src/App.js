@@ -1,4 +1,5 @@
 import Pregunta from "./components/Pregunta";
+import React from 'react';
 
 function App() {
   return (
